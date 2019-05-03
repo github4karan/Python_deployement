@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/karansharma0011/TestProject/_apis/build/status/github4karan.Python_deployement?branchName=master)](https://dev.azure.com/karansharma0011/TestProject/_build/latest?definitionId=1&branchName=master)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
